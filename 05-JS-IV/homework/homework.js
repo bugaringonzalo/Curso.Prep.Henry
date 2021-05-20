@@ -137,7 +137,7 @@ function sumarLikesDeUsuario(usuario) {
   var suma = 0;
   for (const objeto of usuario.posts) {
     suma += objeto.likes;
-    
+    // laksdlaksdjlasd
   }
   return suma;
 }
